@@ -27,5 +27,5 @@ I'm originally from the 🇺🇸
 Lived in 🇨🇳 for over 13 years
 And now in Madrid 🇪🇸
 
-💬 Ask me about Madrid, China, coding bootcamps, anything about beverages (🍵🍷🍾🧋🍺🥃🍸🍶) or learning Spanish.
-📫 How to reach me: bahunter@gmail.com 
+- 💬 Ask me about Madrid, China, coding bootcamps, anything about beverages (🍵🍷🍾🧋🍺🥃🍸🍶) or learning Spanish.
+- 📫 How to reach me: bahunter@gmail.com 
