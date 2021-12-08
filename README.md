@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Hunter Bourgeois.
 
 <!--
 **bahunter105/bahunter105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
-My name is Hunter Bourgeois. Glad you found your way here!
+<!-- Hi there 👋
+My name is Hunter Bourgeois.  -->
+Glad you found your way here!
 
 I recently completed an intensive coding bootcamp at Le Wagon in Madrid
 and am looking forward to utilizing my new 💻 coding superpowers 🦸🏻‍♂️ !
