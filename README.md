@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+My name is Hunter Bourgeois. Glad you found your way here!
+
+I recently completed an intensive coding bootcamp at Le Wagon in Madrid
+and am looking forward to utilizing my new 💻 coding superpowers 🦸🏻‍♂️ !
+
+
+A little more about me:
+I'm originally from the 🇺🇸
+Lived in 🇨🇳 for over 13 years
+And now in Madrid 🇪🇸
+
+💬 Ask me about Madrid, China, coding bootcamps, anything about beverages (🍵🍷🍾🧋🍺🥃🍸🍶) or learning Spanish.
+📫 How to reach me: bahunter@gmail.com 
