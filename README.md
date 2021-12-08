@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 My name is Hunter Bourgeois.  -->
 Glad you found your way here!
 
-I recently completed an intensive coding bootcamp at Le Wagon in Madrid
-and am looking forward to utilizing my new 💻 coding superpowers 🦸🏻‍♂️ !
+I recently completed an intensive coding bootcamp at Le Wagon in Madrid <br />
+and am looking forward to utilizing my new 💻 coding superpowers 🦸🏻‍♂️ ! <br />
 
 
-A little more about me:
-I'm originally from the 🇺🇸
-Lived in 🇨🇳 for over 13 years
+A little more about me: <br />
+I'm originally from the 🇺🇸 <br />
+Lived in 🇨🇳 for over 13 years <br />
 And now in Madrid 🇪🇸
 
-- 💬 Ask me about Madrid, China, coding bootcamps, anything about beverages (🍵🍷🍾🧋🍺🥃🍸🍶) or learning Spanish.
-- 📫 How to reach me: bahunter@gmail.com 
+💬 Ask me about Madrid, China, coding bootcamps, anything about beverages (🍵🍷🍾🧋🍺🥃🍸🍶) or learning Spanish. <br />
+📫 How to reach me: bahunter@gmail.com 
